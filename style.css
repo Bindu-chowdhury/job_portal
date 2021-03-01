@@ -1,0 +1,200 @@
+
+.header {
+    background-image: url(./assets/img/slider/slide2.jpg);
+    width: 100%;
+    height: 100vh;
+
+}
+
+.leftButton, .rightButton {
+    margin-right: 10px;
+    color: white;
+    background-color: green;
+}
+
+ul li a{
+    color: white !important;
+}
+
+.nav-item {
+    font-weight: bold;
+    
+}
+.left{
+    font-weight: bold;
+    /* color: white !important; */
+}
+.heading{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+.text-bold{
+    font-weight: bold;
+    color: white;
+}
+.text-bold2{
+    color:darkred;
+}
+
+.career {
+margin-top: 70px;
+}
+
+.under {
+    width: 70px;
+    border: 1px solid rgb(218, 121, 121);
+    margin: 5px 0 20px 0;
+}
+
+.text-bold2:hover {
+    color: wheat;
+}
+.jobs li {
+    list-style: none;
+    margin: 15px 10px;
+}
+.jobs li a{   
+    text-decoration: none;
+    border: 1px solid lightyellow;
+    border-radius:5px ;
+    padding: 5px;
+    margin: 10px;
+    width:120px;
+    height: 40px;
+}
+
+.popular {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.set{
+    width:100%;
+    
+}
+
+.btn1{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    border-radius: 25px;
+    width:150px;
+}
+.service-title{
+    margin-top: 70px;
+}
+
+.service-item, .item{
+    margin-top: 20px;
+}
+
+.service-item .icon-wrapper i {
+    color: #FF4F57;
+    display: block;
+    margin: 0 auto;
+}
+
+.icon-wrapper {
+    width: 100%;
+    height: 50px;
+    display: flex;
+}
+
+.size{
+    font-size: 40px;
+}
+.bg-color{
+    background-color: rgb(100, 94, 94);
+}
+.text-color{
+    color: white;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.btn{
+    background-image: linear-gradient(to bottom,rgb(167, 14, 14) 0%, red 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 15px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.gap{
+    margin-top: 50px;
+}
+.card-title{
+    margin-top:15px;
+}
+.mar{
+    margin-top: 7px;
+}
+.grid{
+display: flex;
+justify-content: center;
+}
+
+.logo{
+    width: 165px;
+    height: 80px;
+    margin: 20px 20px 20px 0;
+}
+.int{
+ width: 100%  !important;
+}
+.img-set{
+    width:100%;
+    height: 40%;
+    margin-bottom: 15px;
+}
+.get{
+    margin-bottom: 35px;
+    color:white ;
+}
+.mar-setup{
+    margin-bottom: 20px;
+}
+.bg-footer{
+    background-color: rgb(29, 28, 28);
+    padding: 30px 30px;
+}
+.social-icons i{
+    color: red;
+    margin-right: 5px;
+}
+.menu{
+    list-style: none;
+}
+.pad {
+    width: 100px;
+    margin: 20px;
+}
+.box{
+    padding: 3px 5px;
+}
+.b-color{
+    background-color: red;
+    color: white
+}
+.info{
+    color: white;
+    margin-top: 30px;
+}
+.name{
+    color: red;
+    text-decoration: none;
+    
+}
+.bord{
+    border-top: 1px solid rgb(121, 103, 103);
+    width: 100%;
+}
+
